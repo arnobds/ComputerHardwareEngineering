@@ -1,0 +1,31 @@
+Flappy Fish
+Made by: Zaid Alrabaia and Arnob Dey Sarker
+
+
+1. Running the Code in Terminal (Windows):
+   - Navigate to the Flappy Fish directory.
+   - Execute the following commands:
+     $ make
+     $ make install
+
+2. Playing the Game:
+   - Begin by choosing your three initials in 'gamestate4':
+     - Use Button 4 to scroll down through characters.
+     - Use Button 3 to scroll up through characters.
+     - Use Button 2 to proceed to the next initial. After the last initial, Button 2 directs you to the main game page ('gamestate0').
+
+3. Main Game Page (gamestate0):
+   - Displays your top three highest scores along with the associated initials.
+   - Press Button 2 to start the game.
+
+4. Gameplay (gamestate1):
+   - Repeatedly press Button 2 to make the fish jump and move horizontally.
+   - Press Button 4 to move the fish back along the x-axis.
+   - If Button 2 is not pressed, the fish will keep falling.
+   - Avoid crashing; otherwise, the game ends and you'll be directed to 'gamestate2'.
+
+5. Game Over Page (gamestate2):
+   - Shows the score achieved in the current round.
+   - Press Button 3 to return to the home page, where you can check if your current score has surpassed any of the previous top three scores.
+
+
