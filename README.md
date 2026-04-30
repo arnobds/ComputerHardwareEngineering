@@ -4,8 +4,8 @@ A button-controlled arcade game inspired by Flappy Bird, built for embedded hard
 
 **Made by:** Zaid Alrabaia & Arnob Dey Sarker
 
-!(https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly Language](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![PIC32](https://img.shields.io/badge/PIC32_Microcontroller-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
 
 ---
